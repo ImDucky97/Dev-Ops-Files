@@ -1,0 +1,25 @@
+Config = { 
+	Server_Name = "[Miami World]",
+	Discord_Link = 'https://discord.gg/calivice',
+	Website_Link = '',
+	roleList = {
+		{943994021381042196, "group.member"},
+		{950535197034704896, "group.FAA"},
+		{949463725499359293, "group.leo"},
+		{982415077258985512, "group.headdev"},
+		{949464323481296947, "group.fire"},             
+		{949794345115070465, "group.booster"},
+		{949463727135141969, "group.Whitelisted"},
+		{950109609585156176, "group.donator"},
+		{999526125917184031, "group.admin"},
+		{949463728523452436, "group.staffcoord"},
+		{999524544261918750, "group.headadmin"},
+		{943994162355777577, "group.premngmt"},
+		{943994789173534792, "group.management"},
+		{981418996911988798, "group.comdirector"},
+		{943993431666098217, "group.headofmanagement"},
+		{943993412582015048, "group.coowner"}, 
+		{943993386308882472, "group.owner"},
+		{989913147076935690, "group.voice"}, -- do not touch this
+	},
+}
